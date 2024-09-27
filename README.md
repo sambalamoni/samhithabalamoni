@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samhitha</h1>
+<h1 align="center">Hi, I'm Samhitha 👋</h1>
 <h3 align="center">A passionate mobile developer and student from Toronto</h3>
 
 - 🌱 I’m currently learning **Swift**

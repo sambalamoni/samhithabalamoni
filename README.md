@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **samhitha.balamoni@torontomu.ca**
 
-- ⚡ Fun fact **I read a lot of Batman comics.**
+- ⚡ Fun fact: **I read a lot of Batman comics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

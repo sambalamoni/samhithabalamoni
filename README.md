@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samhitha Balamoni</h1>
+<h1 align="center">Hi 👋, I'm Sam Balamoni</h1>
 <h3 align="center">A passionate developer & student from Toronto</h3>
 
 - 🌱 I’m currently learning **Swift, Kotlin, C, C++**

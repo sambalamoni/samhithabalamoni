@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Swift, Kotlin, C, C++**
 
-- 👯 I’m looking to collaborate on **gaming and mobile projects**
+- 👯 I’m looking to collaborate on **mobile and AR/VR projects**
 
 - 👨‍💻 My website is [www.samhithabalamoni.com/personal](www.samhithabalamoni.com/personal)
 
